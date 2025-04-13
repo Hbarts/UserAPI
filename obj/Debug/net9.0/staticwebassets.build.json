@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "pHzFkrOflRg9VfpdrgVZQsGHEdapXA2L3GBY7478wm0=",
+  "Source": "MyNewApi",
+  "BasePath": "_content/MyNewApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
